@@ -1,2 +1,1 @@
-# Map-Traceability
-Afex TraceabilIity Map
+Map-Traceability
